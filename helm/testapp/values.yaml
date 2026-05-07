@@ -7,8 +7,8 @@ replicaCount: 1
 image:
   repository: jasmeet181994/testapp
   pullPolicy: IfNotPresent
-  # Overrides the image tag: "25497094281"
-  tag: "25497094281"
+  # Overrides the image tag: "25497731599"
+  tag: "25497731599"
 
 ingress:
   enabled: false
