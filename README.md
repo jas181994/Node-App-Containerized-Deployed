@@ -3,4 +3,4 @@ This is a Containerized Nodejs app with CI-CD Implementation. Github Actions is 
 every push for changes in application on repository is integrated with helm charts through Github Actions. 
 Changes in helm charts are deployed to Kubernetes cluster using Argo CD.
 
-## Steps for local testing of app:
+
